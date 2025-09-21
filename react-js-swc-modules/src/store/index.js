@@ -1,0 +1,1 @@
+// use zustand or any managment package to manage state
