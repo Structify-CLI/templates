@@ -1,0 +1,1 @@
+// RecentActivities.jsx - starter file

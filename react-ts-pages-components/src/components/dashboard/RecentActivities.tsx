@@ -1,0 +1,1 @@
+// RecentActivities.tsx - starter file
