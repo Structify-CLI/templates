@@ -1,0 +1,1 @@
+// import all component to share it with another components
