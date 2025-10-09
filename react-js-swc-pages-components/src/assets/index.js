@@ -1,4 +1,4 @@
-import ReactLogo from "./react.svg";
+import ReactLogo from "./logo.png";
 
 export {
     ReactLogo
