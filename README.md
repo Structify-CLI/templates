@@ -7,16 +7,15 @@ This directory contains various templates for creating React projects with organ
 ### ✅ Currently Available
 
 - **react-js-modules** - React template with JavaScript and organized modular structure
+- **react-ts-modules** - React template with TypeScript and modular structure
 - **react-js-swc-modules** - React template with SWC compiler and modular structure
+- **react-ts-swc-modules** - React template with TypeScript and SWC compiler
 - **react-js-pages-component** - Template for creating individual React components
 - **react-js-swc-pages-component** - Template for creating React components with SWC
 - **react-ts-pages-component** - Template for creating individual React components with TypeScript
 - **react-ts-swc-pages-component** - Template for creating React components with TypeScript and SWC
 
 ### 🔄 In Development
-
-- **react-ts-modules** - React template with TypeScript and modular structure
-- **react-ts-swc-modules** - React template with TypeScript and SWC compiler
 
 ## Template Structure
 
@@ -32,15 +31,16 @@ Each template contains:
 ```bash
 # Using react-js-modules template
 structify create my-project --template react-js-modules
+structify create my-ts-project --template react-ts-modules
 structify create my-swc-project --template react-js-swc-modules
+structify create my-ts-swc-modules --template react-ts-swc-modules
 structify create my-component --template react-js-pages-component
 structify create my-swc-component --template react-js-swc-pages-component
 structify create my-ts-component --template react-ts-pages-component
 structify create my-ts-swc-component --template react-ts-swc-pages-component
 
 # Using other templates (coming soon)
-structify create my-ts-project --template react-ts-modules
-structify create my-ts-swc-modules --template react-ts-swc-modules
+
 ```
 
 ## Contributing
